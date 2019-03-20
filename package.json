@@ -1,0 +1,14 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\ \"error\\\" && exit 1"
+  },
+  "author": "Joshua Larsen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
