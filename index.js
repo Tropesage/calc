@@ -21,4 +21,5 @@ app.get('/half/:x', function(req, resp) {
   resp.send(`${parseInt(req.params.x) / 2}`)
 })
 
+module.exports = app;
 app.listen(process.env.PORT);
